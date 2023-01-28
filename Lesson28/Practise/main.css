@@ -1,0 +1,18 @@
+.click {
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+    padding: 110px 0;
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+}
+
+.click:hover {
+    cursor: pointer;
+    background-color: cadetblue;
+    color: darkslategray;
+    font-size: 50px;
+    transition: all 0.5s ease;
+}
